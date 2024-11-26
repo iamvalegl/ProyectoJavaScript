@@ -1,0 +1,11 @@
+.borde-negro{
+    background-color: rgb(240, 127, 255);
+    margin: 50px; 
+    width:20% ;
+    padding: 30px; 
+    border-radius:20px ;
+    text-align: center;
+
+
+
+}
